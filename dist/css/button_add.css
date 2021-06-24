@@ -1,0 +1,27 @@
+.floddat{
+  --padding:0px;
+  --margin:0px;
+  --position:fixed;
+  --right:-115px;
+  --top:590px;
+  --width:180px;
+  --z-index: 1100;
+  --font-size: 30px;
+}
+
+.float-container{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:30px;
+	right:30px;
+	background-color:#17a2b8;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+}
